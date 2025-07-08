@@ -2,7 +2,7 @@
 > **Prodigy InfoTech – Data Science Internship Task 5**  
 > Deep Learning-based Image Classification using MNIST Dataset
 
-![Task 5 Banner](https://github.com/kindo-tk/PRODIGY_DS_05/blob/main/ds5.png)
+![Task 5 Banner](https://github.com/kindo-tk/PRODIGY_DS_05/blob/main/ds5.png)  
 
 ---
 
